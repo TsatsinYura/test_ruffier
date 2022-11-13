@@ -8,7 +8,7 @@ class Mapmanager():
         # создаём основной узел карты:
         self.startNew() 
         # self.addBlock((0,10, 0))
-
+sdfasffsdaf
     def startNew(self):
         """создаёт основу для новой карты""" 
         self.land = render.attachNewNode("Land") # узел, к которому привязаны все блоки карты
